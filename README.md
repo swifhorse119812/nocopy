@@ -26,6 +26,7 @@ $(document).ready(function () {
         return false;
     });
 });
+
 function disableselect(e){
 	return false
 } 
